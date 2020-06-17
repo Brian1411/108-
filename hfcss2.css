@@ -116,7 +116,7 @@ upperlogo{
 }
 .low4{
   width: 100%;
-  height:800px;
+  height:1000px;
   background-color: #62BFED;
 }
 .usbox{
@@ -184,6 +184,7 @@ upperlogo{
 h1{
   font-size: 40px;
   margin: 0;
+  padding: 0;
 }
 h2{
   font-size: 30px;
@@ -200,3 +201,4 @@ img{
 .collapse{
   background-color: #C2BBF0;
 }
+
